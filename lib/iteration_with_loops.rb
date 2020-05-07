@@ -11,7 +11,7 @@ while row_index < src.count do
       p src[row_index][element_index]
    
   end 
-  
+   element_index += 1 
   row_index += 1 
 end
 
